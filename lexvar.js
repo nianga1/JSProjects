@@ -7,3 +7,5 @@ function foo(){
     }
     return zip;
 }
+function c();
+// test123
